@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "product_name":"Smart TV",
+        "category": "Electonics",
+        "category_id": 1,
+        "Price": 40000,
+        "Size": "Big Size",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Goldy"
+    },
+    {
+        "id": 2,
+        "product_name":"Mobile Phone",
+        "category": "Electonics",
+        "category_id": 1,
+        "Price": 30000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Goldy"
+    },
+    {
+        "id": 3,
+        "product_name":"Laptop",
+        "category": "Electonics",
+        "category_id": 1,
+        "Price": 70000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Goldy"
+    },
+    {
+        "id": 4,
+        "product_name":"Macbook",
+        "category": "Electonics",
+        "category_id": 1,
+        "Price": 500000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Goldy"
+    },
+    {
+        "id": 5,
+        "product_name":"Air Cooler",
+        "category": "Electonics",
+        "category_id": 1,
+        "Price": 45000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Goldy"
+    },
+    {
+        "id": 6,
+        "product_name":"Ball",
+        "category": "Sports",
+        "category_id": 2,
+        "Price": 100,
+        "Size": "Full Size",
+        "Image": "",
+        "Color": "White",
+        "Brand": "SPX"
+    },
+    {
+        "id": 7,
+        "product_name":"Bat",
+        "category": "Sports",
+        "category_id": 2,
+        "Price": 2000,
+        "Size": "Full Size",
+        "Image": "",
+        "Color": "Grey",
+        "Brand": "SPX"
+    },
+    {
+        "id": 8,
+        "product_name":"Kit Bag",
+        "category": "Sports",
+        "category_id": 2,
+        "Price": 1000,
+        "Size": "Full Size",
+        "Image": "",
+        "Color": "black",
+        "Brand": "SPX"
+    },
+    {
+        "id": 9,
+        "product_name":"Stump",
+        "category": "Sports",
+        "category_id": 2,
+        "Price": 200,
+        "Size": "medium",
+        "Image": "",
+        "Color": "Grey",
+        "Brand": "SPX"
+    },
+    {
+        "id": 10,
+        "product_name":"Badminton",
+        "category": "Sports",
+        "category_id": 2,
+        "Price": 700,
+        "Size": "Full Size",
+        "Image": "",
+        "Color": "black",
+        "Brand": "SPX"
+    },
+    {
+        "id": 11,
+        "product_name":"Paint",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 4000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "RBX"
+    },
+    {
+        "id": 12,
+        "product_name":"Shirt",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "RBX"
+    },
+    {
+        "id": 13,
+        "product_name":"Hat",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 300,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "RBX"
+    },
+    {
+        "id": 14,
+        "product_name":"Belt",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 500,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "RBX"
+    },
+    {
+        "id": 15,
+        "product_name":"Coat",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 20000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "RBX"
+    },
+    {
+        "id": 16,
+        "product_name":"Aeroplane",
+        "category": "Toys",
+        "category_id": 4,
+        "Price": 300,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Cool"
+    },
+    {
+        "id": 17,
+        "product_name":"Car",
+        "category": "Toys",
+        "category_id": 4,
+        "Price": 200,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Cool"
+    },
+    {
+        "id": 18,
+        "product_name":"Teddy Bear",
+        "category": "Toys",
+        "category_id": 4,
+        "Price": 1000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "red",
+        "Brand": "Cool"
+    },
+    {
+        "id": 19,
+        "product_name":"Ludoo",
+        "category": "Toys",
+        "category_id": 4,
+        "Price": 100,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Cool"
+    },
+    {
+        "id": 20,
+        "product_name":"Baloon",
+        "category": "Toys",
+        "category_id": 4,
+        "Price": 100,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Cool"
+    },
+    {
+        "id": 21,
+        "product_name":"Honey",
+        "category": "Grocery",
+        "category_id": 5,
+        "Price": 500,
+        "Size": "medium",
+        "Image": "",
+        "Color": "Brown",
+        "Brand": "Desi"
+    },
+    {
+        "id": 22,
+        "product_name":"Oil",
+        "category": "Grocery",
+        "category_id": 5,
+        "Price": 1000,
+        "Size": "medium",
+        "Image": "",
+        "Color": "Light Brown",
+        "Brand": "Desi"
+    },
+    {
+        "id": 23,
+        "product_name":"Desi Ghee",
+        "category": "Grocery",
+        "category_id": 5,
+        "Price": 2100,
+        "Size": "medium",
+        "Image": "",
+        "Color": "Yellow",
+        "Brand": "Desi"
+    },
+    {
+        "id": 24,
+        "product_name":"Tooth Paste",
+        "category": "Grocery",
+        "category_id": 5,
+        "Price": 500,
+        "Size": "medium",
+        "Image": "",
+        "Color": "White",
+        "Brand": "Desi"
+    },
+    {
+        "id": 25,
+        "product_name":"Hand wash",
+        "category": "Grocery",
+        "category_id": 5,
+        "Price": 700,
+        "Size": "medium",
+        "Image": "",
+        "Color": "black",
+        "Brand": "Desi"
+    }
+
+]

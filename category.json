@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "category": "Electonics"
+    },
+    {
+        "id":2,
+        "category": "Sports"
+    },
+    {
+        "id":3,
+        "category": "Fashion"
+    },
+    {
+        "id":4,
+        "category": "Toys"
+    },
+    {
+        "id":5,
+        "category": "Grocery"
+    }
+
+
+]
